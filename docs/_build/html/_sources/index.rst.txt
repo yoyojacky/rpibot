@@ -1,0 +1,19 @@
+.. 52Pi DockerPi Documentation documentation master file, created by
+   sphinx-quickstart on Thu Apr 30 17:02:14 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to 52Pi DockerPi Documentation's documentation!
+=======================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
